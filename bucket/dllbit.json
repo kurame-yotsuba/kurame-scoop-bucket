@@ -1,5 +1,6 @@
 {
-	"description": "DLLを識別するアプリ",
+	"##": "dllbit",
+	"description": "DLLが32bit版か、64bit版かを識別するアプリ。",
 	"version": "1.0.0",
 	"url": "https://github.com/kurame-yotsuba/dll-bit-discriminator/releases/download/v1.0.0/dllbit.zip",
 	"hash": "BCA1B92AFE93FEEF15A23C8588ECE4C2A10BC97FBBB53F9907BCF17B1E277339",
