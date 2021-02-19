@@ -1,0 +1,2 @@
+# kurame-scoop-bucket
+Scoopのbucket
